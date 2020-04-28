@@ -8,7 +8,7 @@ spring:
 server:
   port: 6001
 busi:
-  ops: 1
+  ops: 2
 ---
 spring:
   profiles: pre
