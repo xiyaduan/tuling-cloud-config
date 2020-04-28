@@ -1,0 +1,16 @@
+spring:
+  profiles:
+    active: test
+    
+---
+spring:
+  profiles: test
+server:
+  port: 8001
+busi:
+  ops: 2
+---
+spring:
+  profiles: pre
+server:
+  port: 8002    
