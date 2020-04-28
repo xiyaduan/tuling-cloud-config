@@ -6,9 +6,9 @@ spring
 spring:
   profiles: test
 server:
-  port: 4002
+  port: 5001
 ---
 spring:
   profiles: pre
 server:
-  port: 4003    
+  port: 5002    
