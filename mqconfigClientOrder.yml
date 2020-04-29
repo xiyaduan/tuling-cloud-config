@@ -8,7 +8,7 @@ spring:
 server:
   port: 9101
 busi:
-  ops: 9
+  ops: 3
 ---
 spring:
   profiles: pre
