@@ -13,4 +13,6 @@ busi:
 spring:
   profiles: pre
 server:
-  port: 8002    
+  port: 8002
+busi:
+  ops: 2
