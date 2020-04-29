@@ -8,7 +8,7 @@ spring:
 server:
   port: 8001
 busi:
-  ops: 2
+  ops: 1
 ---
 spring:
   profiles: pre
