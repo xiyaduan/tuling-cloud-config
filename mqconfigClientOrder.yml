@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: test
+    
+---
+spring:
+  profiles: test
+server:
+  port: 9101
+busi:
+  ops: 9
+---
+spring:
+  profiles: pre
+server:
+  port: 9102
+busi:
+  ops: 2
